@@ -1,0 +1,14 @@
+{
+  "version": "1.1.2",
+  "build": 3,
+  "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
+  "sha256": "11a7e8f32158b43f468b6a0100df9b673d2dd61159d16992eb48329e6816d80a",
+  "dependencies": [
+    {
+      "name": "fabric-api.jar",
+      "downloadUrl": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.141.1+1.21.11/fabric-api-0.141.1+1.21.11.jar",
+      "version": "0.141.1+1.21.11"
+    }
+  ],
+  "changelog": "OrionClient v1.1.2 release with build stability fixes, version 1.1.2 core framework updates, and optimized launcher integration."
+}
