@@ -2,7 +2,7 @@
   "version": "1.1.3",
   "build": 4,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "56c93c5f7fa7d62c18919590a2b79f2250d5225dd2e6157c94a012cfa96c0307",
+  "sha256": "47030c4ecc66bc32f9912db9a5aa7dbfaa29b120b5fe0a3d513e209f120b0249",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.1.3 release with skin rendering optimizations, dual Upstash Redis REST fallback, and launcher update improvements."
+  "changelog": "OrionClient v1.1.3 release with universal Singleplayer & Multiplayer custom 3D skin rendering architecture."
 }
