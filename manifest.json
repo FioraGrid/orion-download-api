@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
-  "build": 12,
+  "version": "1.2.0",
+  "build": 13,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "803C4B64846EEF3EB8AAA7DBECB1497493362077CD88E43A966FB6B21A7F902F",
+  "sha256": "E9890172147A40349C4F20869E5DE1385CF0C360EB0DB280D725C3955362E44E",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.1.9 (Build 12): Added full System Profile engine with GUI editor state persistence (Snap, Guides, Grid) and profile management (create, switch, delete, import, export)."
+  "changelog": "OrionClient v1.2.0 (Build 13): Full Profile Management System screen implementation in ClickGUI with create, switch, and delete actions."
 }
