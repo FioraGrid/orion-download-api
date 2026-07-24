@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
-  "build": 11,
+  "version": "1.1.9",
+  "build": 12,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "3B0933E7D340D1B2D03B64937BE58EFEC8863F31D1A3B17280D2E454DDE9A1F8",
+  "sha256": "803C4B64846EEF3EB8AAA7DBECB1497493362077CD88E43A966FB6B21A7F902F",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.1.8 (Build 11): Removed Saturation (AppleSkin) and Watermark HUD modules."
+  "changelog": "OrionClient v1.1.9 (Build 12): Added full System Profile engine with GUI editor state persistence (Snap, Guides, Grid) and profile management (create, switch, delete, import, export)."
 }
