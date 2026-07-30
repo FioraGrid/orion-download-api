@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "build": 14,
+  "version": "1.2.2",
+  "build": 15,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "CF11D0092A9FEAD8C5AA47A199AA8F56F7AF335B6A3EEFD816158E0CA140304A",
+  "sha256": "90FFB7FF073EA257655B59198E6ABA10B0E8038651A3D2F2958E2CDDAB597969",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.2.1 (Build 14): Updated dependencies and fixed minor bugs."
+  "changelog": "OrionClient v1.2.2 (Build 15): Fixed mixin transformation error - removed stale mixin references."
 }
