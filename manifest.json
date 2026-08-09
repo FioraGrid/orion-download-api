@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "build": 17,
+  "version": "1.2.5",
+  "build": 18,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "AD53CE34FE656D8FF06E18D803183DDBFDFCB21007AF026483CA5088CBA5F12A",
+  "sha256": "49638D76EE7D8F6D75B0A0B7F8D01CFBCACFBD9F4570CCB477F5C87F39F5F7DF",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.2.4 (Build 17): Synchronous launcher config persistence, hardware CPS hook & live ping display."
+  "changelog": "OrionClient v1.2.5 (Build 18): Dynamic crosshair indicator, reaching hitbox colors, FullBright fluid fog culling, ShieldStatus model overlays, and Low Fire settings."
 }
