@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
-  "build": 18,
+  "version": "1.2.6",
+  "build": 19,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "49638D76EE7D8F6D75B0A0B7F8D01CFBCACFBD9F4570CCB477F5C87F39F5F7DF",
+  "sha256": "3F7D65ABF496C7A9C9E10F0738EF194FF4409547CAA245954EDE084140AFAD22",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.2.5 (Build 18): Dynamic crosshair indicator, reaching hitbox colors, FullBright fluid fog culling, ShieldStatus model overlays, and Low Fire settings."
+  "changelog": "OrionClient v1.2.6 (Build 19): Fixed SpriteContentsMixin crash by using an access widener to make SpriteContents$Animation public."
 }
